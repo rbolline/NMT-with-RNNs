@@ -1,0 +1,299 @@
+2016-11-28 23:09:28,867 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2016-11-28 23:09:28,875 [      8]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-163.7743.44, 17 Nov 2016 21:24) 
+2016-11-28 23:09:28,875 [      8]   INFO -        #com.intellij.idea.Main - OS: Linux (3.10.0-327.36.3.el7.x86_64, amd64) 
+2016-11-28 23:09:28,875 [      8]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-408-b2 (JetBrains s.r.o) 
+2016-11-28 23:09:28,875 [      8]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b2 (OpenJDK 64-Bit Server VM) 
+2016-11-28 23:09:28,877 [     10]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/azureuser/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/azureuser/java_error_in_IDEA.hprof -Didea.paths.selector=IdeaIC2016.3 -Djb.vmOptionsFile=./idea64.vmoptions -Didea.platform.prefix=Idea -Didea.jre.check=true 
+2016-11-28 23:09:28,877 [     10]   INFO -        #com.intellij.idea.Main - ext: /dsvm/tools/idea/jre/jre/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2016-11-28 23:09:28,877 [     10]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2016-11-28 23:09:28,932 [     65]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 55 ms 
+2016-11-28 23:09:43,240 [  14373]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2016-11-28 23:09:43,261 [  14394]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2016-11-28 23:09:48,222 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2016-11-28 23:09:48,238 [     16]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-163.7743.44, 17 Nov 2016 21:48) 
+2016-11-28 23:09:48,238 [     16]   INFO -        #com.intellij.idea.Main - OS: Linux (3.10.0-327.36.3.el7.x86_64, amd64) 
+2016-11-28 23:09:48,238 [     16]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-408-b2 (JetBrains s.r.o) 
+2016-11-28 23:09:48,238 [     16]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b2 (OpenJDK 64-Bit Server VM) 
+2016-11-28 23:09:48,240 [     18]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/azureuser/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/azureuser/java_error_in_IDEA.hprof -Didea.paths.selector=IdeaIC2016.3 -Djb.vmOptionsFile=./idea64.vmoptions -Didea.platform.prefix=Idea -Didea.jre.check=true 
+2016-11-28 23:09:48,240 [     18]   INFO -        #com.intellij.idea.Main - ext: /dsvm/tools/idea/jre/jre/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2016-11-28 23:09:48,240 [     18]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2016-11-28 23:09:48,273 [     51]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 32 ms 
+2016-11-28 23:09:48,286 [     64]   INFO -     #com.intellij.util.ui.JBUI - UI scale factor: 1.0 
+2016-11-28 23:09:57,394 [   9172]   INFO - .intellij.idea.IdeaApplication - WM detected: Xfwm4 
+2016-11-28 23:09:57,752 [   9530]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2016-11-28 23:09:58,516 [  10294]   INFO - llij.ide.plugins.PluginManager - 32 plugins initialized in 958 ms 
+2016-11-28 23:09:58,517 [  10295]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.2.2), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (163.7743.44), Eclipse Integration (3.0), EditorConfig (163.7743.44), Git Integration (8.1), GitHub (163.7743.44), Gradle (163.7743.44), Groovy (9.0), I18n for Java (163.7743.44), IDEA CORE (163.7743.44), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (163.7743.44), JavaFX (1.0), Kotlin (1.0.5-release-IJ2016.3-1), Maven Integration (163.7743.44), Plugin DevKit (1.0), Properties Support (163.7743.44), Settings Repository (163.7743.44), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), UI Designer (163.7743.44), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (163.7743.44), hg4idea (10.0) 
+2016-11-28 23:09:59,716 [  11494]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/home/azureuser/.IdeaIC2016.3/system/caches/names.dat' does not exist 
+2016-11-28 23:09:59,723 [  11501]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2016-11-28 23:09:59,776 [  11554]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /dsvm/tools/idea/bin/fsnotifier64 
+2016-11-28 23:09:59,799 [  11577]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2016-11-28 23:10:00,391 [  12169]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2016-11-28 23:10:00,391 [  12169]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2016-11-28 23:10:01,180 [  12958]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2016-11-28 23:10:01,235 [  13013]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2016-11-28 23:10:02,581 [  14359]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:1225 
+2016-11-28 23:10:02,586 [  14364]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:4 
+2016-11-28 23:10:02,987 [  14765]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:398 
+2016-11-28 23:10:02,988 [  14766]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2016-11-28 23:10:03,025 [  14803]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2016-11-28 23:10:03,174 [  14952]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:Properties,KJSM,HTML,kotlin_builtins,JAVA,CLASS,Kotlin,Groovy,XML 
+2016-11-28 23:10:03,431 [  15209]   INFO - pl$FileIndexDataInitialization - Initialization done:844 
+2016-11-28 23:10:03,637 [  15415]   INFO - exImpl$StubIndexInitialization - Initialization done:206 
+2016-11-28 23:10:04,173 [  15951]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.versions.KotlinMetadataVersionIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:62)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:501)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$3.run(CoreProgressManager.java:179)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:568)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:519)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:164)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:448)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:109)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:400)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:386)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:190)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:47)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2016-11-28 23:10:04,187 [  15965]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.versions.KotlinJavaScriptAbiVersionIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:63)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:501)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$3.run(CoreProgressManager.java:179)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:568)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:519)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:164)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:448)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:109)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:400)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:386)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:190)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:47)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2016-11-28 23:10:04,189 [  15967]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:64)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:501)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$3.run(CoreProgressManager.java:179)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:568)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:519)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:164)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:448)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:109)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:400)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:386)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:190)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:47)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2016-11-28 23:10:04,191 [  15969]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:65)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:501)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$3.run(CoreProgressManager.java:179)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:568)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:519)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:164)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:448)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:109)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:400)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:386)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:190)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:47)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2016-11-28 23:10:04,196 [  15974]   INFO - il.indexing.FileBasedIndexImpl - Rebuild requested for index org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex 
+java.lang.Throwable
+	at com.intellij.util.indexing.FileBasedIndex.requestRebuild(FileBasedIndex.java:72)
+	at org.jetbrains.kotlin.idea.versions.KotlinUpdatePluginComponent.initComponent(KotlinUpdatePluginComponent.kt:66)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:501)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:125)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$createComponents$8(ApplicationImpl.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$3.run(CoreProgressManager.java:179)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:568)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:519)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:164)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:448)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:109)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:400)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:386)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:190)
+	at com.intellij.idea.MainImpl$1.lambda$null$0(MainImpl.java:47)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2016-11-28 23:10:04,201 [  15979]   INFO - plication.impl.ApplicationImpl - 86 application components initialized in 6646ms 
+2016-11-28 23:10:04,277 [  16055]   INFO - .intellij.idea.IdeaApplication - App initialization took 17269 ms 
+2016-11-28 23:10:04,898 [  16676]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@1439c3dc 
+2016-11-28 23:10:04,919 [  16697]   INFO - il.indexing.FileBasedIndexImpl - scheduleIndexRebuild, reason: checkRebuild 
+2016-11-28 23:10:04,935 [  16713]   INFO - il.indexing.FileBasedIndexImpl - scheduleIndexRebuild, reason: checkRebuild 
+2016-11-28 23:10:04,935 [  16713]   INFO - il.indexing.FileBasedIndexImpl - scheduleIndexRebuild, reason: checkRebuild 
+2016-11-28 23:10:04,935 [  16713]   INFO - il.indexing.FileBasedIndexImpl - scheduleIndexRebuild, reason: checkRebuild 
+2016-11-28 23:10:04,935 [  16713]   INFO - il.indexing.FileBasedIndexImpl - scheduleIndexRebuild, reason: checkRebuild 
+2016-11-28 23:10:06,767 [  18545]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@4cb5c7e5 
+2016-11-28 23:10:07,101 [  18879]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@5822c98b 
+2016-11-28 23:10:48,798 [  60576]   INFO - ellij.project.impl.ProjectImpl - 21 project components initialized in 522 ms 
+2016-11-28 23:10:48,799 [  60577]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2016-11-28 23:12:56,845 [ 188623]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2016-11-28 23:12:56,845 [ 188623]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2016-11-28 23:12:56,850 [ 188628]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2016-11-28 23:12:56,852 [ 188630]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2016-11-28 23:12:56,853 [ 188631]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2016-11-28 23:12:56,931 [ 188709]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2016-11-28 23:12:56,935 [ 188713]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2016-11-28 23:12:56,935 [ 188713]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2016-11-28 23:12:56,937 [ 188715]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2016-11-28 23:12:56,950 [ 188728]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2016-11-28 23:12:56,954 [ 188732]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2016-11-28 23:13:00,548 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2016-11-28 23:13:00,566 [     18]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-163.7743.44, 17 Nov 2016 21:00) 
+2016-11-28 23:13:00,566 [     18]   INFO -        #com.intellij.idea.Main - OS: Linux (3.10.0-327.36.3.el7.x86_64, amd64) 
+2016-11-28 23:13:00,567 [     19]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-408-b2 (JetBrains s.r.o) 
+2016-11-28 23:13:00,567 [     19]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b2 (OpenJDK 64-Bit Server VM) 
+2016-11-28 23:13:00,568 [     20]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:/dsvm/tools/idea/lib/boot.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/azureuser/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/azureuser/java_error_in_IDEA.hprof -Didea.paths.selector=IdeaIC2016.3 -Djb.vmOptionsFile=/dsvm/tools/idea/bin/idea64.vmoptions -Didea.platform.prefix=Idea -Didea.jre.check=true 
+2016-11-28 23:13:00,569 [     21]   INFO -        #com.intellij.idea.Main - ext: /dsvm/tools/idea/jre/jre/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2016-11-28 23:13:00,569 [     21]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2016-11-28 23:13:00,603 [     55]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 34 ms 
+2016-11-28 23:13:00,616 [     68]   INFO -     #com.intellij.util.ui.JBUI - UI scale factor: 1.0 
+2016-11-28 23:13:00,835 [    287]   INFO - .intellij.idea.IdeaApplication - WM detected: Xfwm4 
+2016-11-28 23:13:01,544 [    996]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2016-11-28 23:13:02,246 [   1698]   INFO - llij.ide.plugins.PluginManager - 33 plugins initialized in 1089 ms 
+2016-11-28 23:13:02,247 [   1699]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.2.2), Ant Support (1.0), Bytecode Viewer (0.1), CVS Integration (11), Copyright (8.1), Coverage (163.7743.44), Eclipse Integration (3.0), EditorConfig (163.7743.44), Git Integration (8.1), GitHub (163.7743.44), Gradle (163.7743.44), Groovy (9.0), I18n for Java (163.7743.44), IDEA CORE (163.7743.44), IntelliLang (8.0), JUnit (1.0), Java Bytecode Decompiler (163.7743.44), JavaFX (1.0), Kotlin (1.0.5-release-IJ2016.3-1), Maven Integration (163.7743.44), Plugin DevKit (1.0), Properties Support (163.7743.44), Settings Repository (163.7743.44), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), UI Designer (163.7743.44), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (163.7743.44), hg4idea (10.0) 
+2016-11-28 23:13:02,247 [   1699]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Scala (2016.3.3) 
+2016-11-28 23:13:03,514 [   2966]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2016-11-28 23:13:03,576 [   3028]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /dsvm/tools/idea/bin/fsnotifier64 
+2016-11-28 23:13:03,587 [   3039]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2016-11-28 23:13:05,174 [   4626]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2016-11-28 23:13:05,233 [   4685]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2016-11-28 23:13:05,497 [   4949]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:193 
+2016-11-28 23:13:05,502 [   4954]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:4 
+2016-11-28 23:13:05,561 [   5013]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:49 
+2016-11-28 23:13:05,564 [   5016]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:2 
+2016-11-28 23:13:05,659 [   5111]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2016-11-28 23:13:06,178 [   5630]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index IdIndex. The index will be rebuilt. 
+2016-11-28 23:13:06,237 [   5689]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index filetypes. The index will be rebuilt. 
+2016-11-28 23:13:06,756 [   6208]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 1273 ms 
+2016-11-28 23:13:06,757 [   6209]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2016-11-28 23:13:06,926 [   6378]   INFO - plication.impl.ApplicationImpl - 93 application components initialized in 5777ms 
+2016-11-28 23:13:07,122 [   6574]   INFO - .intellij.idea.IdeaApplication - App initialization took 7772 ms 
+2016-11-28 23:13:07,399 [   6851]   INFO - ij.psi.stubs.StubUpdatingIndex - requesting complete stub index rebuild due to changes: added file types:Scala,SBT; 
+2016-11-28 23:13:07,403 [   6855]   INFO - il.indexing.FileBasedIndexImpl -  
+java.io.IOException
+	at com.intellij.psi.stubs.StubVersionMap.updateState(StubVersionMap.java:113)
+	at com.intellij.psi.stubs.StubVersionMap.<init>(StubVersionMap.java:64)
+	at com.intellij.psi.stubs.StubUpdatingIndex$MyIndex.<init>(StubUpdatingIndex.java:396)
+	at com.intellij.psi.stubs.StubUpdatingIndex.createIndexImplementation(StubUpdatingIndex.java:337)
+	at com.intellij.util.indexing.FileBasedIndexImpl.createIndex(FileBasedIndexImpl.java:455)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initIndexStorage(FileBasedIndexImpl.java:387)
+	at com.intellij.util.indexing.FileBasedIndexImpl.registerIndexer(FileBasedIndexImpl.java:351)
+	at com.intellij.util.indexing.FileBasedIndexImpl.access$5300(FileBasedIndexImpl.java:102)
+	at com.intellij.util.indexing.FileBasedIndexImpl$FileIndexDataInitialization.lambda$new$0(FileBasedIndexImpl.java:2317)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.executeNestedInitializationTask(IndexInfrastructure.java:211)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.runParallelNestedInitializationTasks(IndexInfrastructure.java:201)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.call(IndexInfrastructure.java:165)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:210)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-11-28 23:13:07,633 [   7085]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:KJSM,JAVA,Properties,Scala,XML,Kotlin,CLASS,kotlin_builtins,Groovy,HTML,SBT 
+2016-11-28 23:13:08,016 [   7468]   INFO - pl$FileIndexDataInitialization - Initialization done:2514 
+2016-11-28 23:13:08,425 [   7877]   INFO - exImpl$StubIndexInitialization - Initialization done:408 
+2016-11-28 23:13:09,417 [   8869]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@75525410 
+2016-11-28 23:13:11,568 [  11020]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@2eb85e5 
+2016-11-28 23:13:12,025 [  11477]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@77c9a888 
+2016-11-28 23:13:13,709 [  13161]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2016-11-28 23:13:13,709 [  13161]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2016-11-28 23:13:13,741 [  13193]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2016-11-28 23:13:13,742 [  13194]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2016-11-28 23:13:13,742 [  13194]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2016-11-28 23:13:13,796 [  13248]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2016-11-28 23:13:13,800 [  13252]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2016-11-28 23:13:13,802 [  13254]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2016-11-28 23:13:13,805 [  13257]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2016-11-28 23:13:13,815 [  13267]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2016-11-28 23:13:13,827 [  13279]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

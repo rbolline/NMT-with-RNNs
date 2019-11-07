@@ -1,0 +1,7 @@
+[global]
+floatX = float32
+device = cuda0
+[lib]
+gpuarray.preallocate=1
+[nvcc]
+flags=-D_FORCE_INLINES

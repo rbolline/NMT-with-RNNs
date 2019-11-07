@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Online Help
+Comment=About Data Science Virtual Machine
+Icon=help-browser
+Exec=firefox http://aka.ms/dsvm/discover
+Path=
+Terminal=true

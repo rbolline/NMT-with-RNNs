@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Drill Web Console
+Comment=Drill Web Console
+Exec=firefox http://localhost:8047
+Icon=/dsvm/tools/drill/drill.png
+Path=
+Terminal=true
+StartupNotify=false

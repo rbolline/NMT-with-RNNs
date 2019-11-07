@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=About Data Science Virtual Machine
+Comment=About page
+Categories=X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+Icon=help-browser
+URL=https://github.com/Azure/Azure-MachineLearning-DataScience/blob/master/Data-Science-Virtual-Machine/Linux/README.md
+X-XFCE-Source=file:///usr/share/applications/data-science-virtual-machine.desktop

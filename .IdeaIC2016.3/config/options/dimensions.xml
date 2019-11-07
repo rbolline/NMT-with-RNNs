@@ -1,0 +1,9 @@
+<application>
+  <component name="DimensionService">
+    <location key="#Browse_Repositories.0.0.1681.848" x="421" y="31" />
+    <location key="#Plugins.0.0.1681.848" x="435" y="31" />
+    <location key="WELCOME_SCREEN.0.0.1681.848" x="840" y="230" />
+    <size key="#Browse_Repositories.0.0.1681.848" width="830" height="697" />
+    <size key="#Plugins.0.0.1681.848" width="806" height="690" />
+  </component>
+</application>
